@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 71f7754089413864b95d67e3d4115da0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6976404003862009696
+    second: tile_photoshit_0
+  - first:
+      213: -4126703371411339339
+    second: tile_photoshit_1
+  - first:
+      213: 4402465023535853815
+    second: tile_photoshit_2
+  - first:
+      213: 2220099064548398276
+    second: tile_photoshit_3
+  - first:
+      213: 8873748063494511721
+    second: tile_photoshit_4
+  - first:
+      213: -2964868340805183853
+    second: tile_photoshit_5
+  - first:
+      213: -2681388788966730633
+    second: tile_photoshit_6
+  - first:
+      213: 2662837357980554215
+    second: tile_photoshit_7
+  - first:
+      213: 2108694511654922911
+    second: tile_photoshit_8
+  - first:
+      213: 7442522333292267678
+    second: tile_photoshit_9
+  - first:
+      213: 8598625066082805060
+    second: tile_photoshit_10
+  - first:
+      213: 5258052698446410824
+    second: tile_photoshit_11
+  - first:
+      213: 1932264590239023544
+    second: tile_photoshit_12
+  - first:
+      213: -3592571659848386623
+    second: tile_photoshit_13
+  - first:
+      213: -3076789494478983477
+    second: tile_photoshit_14
+  - first:
+      213: 6064652627074797169
+    second: tile_photoshit_15
+  - first:
+      213: -943781324488329898
+    second: tile_photoshit_16
+  - first:
+      213: -5794782489591494426
+    second: tile_photoshit_17
+  - first:
+      213: 2898337098034579615
+    second: tile_photoshit_18
+  - first:
+      213: 2368532699932085456
+    second: tile_photoshit_19
+  - first:
+      213: -3161518450965553831
+    second: tile_photoshit_20
+  - first:
+      213: 420009270415370922
+    second: tile_photoshit_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile_photoshit_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067decb9a7a21d060800000000000000
+      internalID: 6976404003862009696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 463
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7ce9dd5210bb6c0800000000000000
+      internalID: -4126703371411339339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 443
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0bfe71d92b81d30800000000000000
+      internalID: 4402465023535853815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 443
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4959c26506fce10800000000000000
+      internalID: 2220099064548398276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c96ee39d2e52b70800000000000000
+      internalID: 8873748063494511721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 407
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396518cd3fbaad6d0800000000000000
+      internalID: -2964868340805183853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 407
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7745ce06a1bc9cad0800000000000000
+      internalID: -2681388788966730633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 407
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e31211087c44f420800000000000000
+      internalID: 2662837357980554215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 372
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae10b6c76934d10800000000000000
+      internalID: 2108694511654922911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 372
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e980cc441a6294760800000000000000
+      internalID: 7442522333292267678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 372
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a2aca0f3745770800000000000000
+      internalID: 8598625066082805060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 372
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844be25221b58f840800000000000000
+      internalID: 5258052698446410824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 372
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b143414868c0da10800000000000000
+      internalID: 1932264590239023544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7f9901c1f942ec0800000000000000
+      internalID: -3592571659848386623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce2dec914c0d45d0800000000000000
+      internalID: -3076789494478983477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ecee2be69f92450800000000000000
+      internalID: 6064652627074797169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 300
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655b930c2e307e2f0800000000000000
+      internalID: -943781324488329898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 300
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8ce3d170cc49fa0800000000000000
+      internalID: -5794782489591494426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 300
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9800bf0c36f83820800000000000000
+      internalID: 2898337098034579615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 300
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc495a01f7bed020800000000000000
+      internalID: 2368532699932085456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 289
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dda5328b70024d0800000000000000
+      internalID: -3161518450965553831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_photoshit_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 282
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaaa75c43c24d500800000000000000
+      internalID: 420009270415370922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tile_photoshit_0: 6976404003862009696
+      tile_photoshit_1: -4126703371411339339
+      tile_photoshit_10: 8598625066082805060
+      tile_photoshit_11: 5258052698446410824
+      tile_photoshit_12: 1932264590239023544
+      tile_photoshit_13: -3592571659848386623
+      tile_photoshit_14: -3076789494478983477
+      tile_photoshit_15: 6064652627074797169
+      tile_photoshit_16: -943781324488329898
+      tile_photoshit_17: -5794782489591494426
+      tile_photoshit_18: 2898337098034579615
+      tile_photoshit_19: 2368532699932085456
+      tile_photoshit_2: 4402465023535853815
+      tile_photoshit_20: -3161518450965553831
+      tile_photoshit_21: 420009270415370922
+      tile_photoshit_3: 2220099064548398276
+      tile_photoshit_4: 8873748063494511721
+      tile_photoshit_5: -2964868340805183853
+      tile_photoshit_6: -2681388788966730633
+      tile_photoshit_7: 2662837357980554215
+      tile_photoshit_8: 2108694511654922911
+      tile_photoshit_9: 7442522333292267678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
