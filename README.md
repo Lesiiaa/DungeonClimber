@@ -62,7 +62,7 @@ The game was created by a team of 4 people.
 
 ---
 
-## Authors :fountain-pen:
+## Authors :fountain_pen:
 - Letycja Niemiec
 - Patryk W.
 - Dacjan Z.
