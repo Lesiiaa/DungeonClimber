@@ -4,9 +4,9 @@
 * [Technologies](#technologies-wrench)
 * [Screenshots](#screenshots-desktop_computer)
 * [Installation](#installation-magic_wand)
-* [Authors](#authors-fountain-pen)
+* [Authors](#authors-fountain_pen)
 * [Credits & Resources](#credits--resources-books)
-* [Assets](#assets-note)
+* [Assets](#assets-paperclip)
 
 --- 
 
@@ -57,8 +57,9 @@ The game was created by a team of 4 people.
    ```bash
    git clone https://github.com/Lesiiaa/DungeonClimber.git
    ```
-2. **Open the project in Unity Engine**  
-3. **Run the game!** 
+2. **Open the project in Unity Engine**
+3. **Open the scene *MainMenu***
+4. **Run the game!** 
 
 ---
 
@@ -79,7 +80,7 @@ The game was created by a team of 4 people.
 
 ---
 
-## Assets :note:
+## Assets :paperclip:
 - https://assetstore.unity.com/packages/2d/characters/monsters-creatures-fantasy-167949
 - https://pixabay.com/sound-effects/search/mousetrap/
 - https://pixabay.com/sound-effects/search/punch/
