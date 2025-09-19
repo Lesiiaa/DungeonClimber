@@ -2,7 +2,7 @@
 * [Project Overview](#project-overview-rocket)
 * [Features](#features-fire)
 * [Technologies](#technologies-wrench)
-* [Screenshots](#screenshots-desktop_computer)
+* [Gameplay Preview](#gameplay-preview-desktop_computer)
 * [Installation](#installation-magic_wand)
 * [Authors](#authors-fountain_pen)
 * [Credits & Resources](#credits--resources-books)
@@ -35,7 +35,7 @@ The game was created by a team of 4 people.
 
 ---
 
-## Screenshots :desktop_computer:
+## Gameplay Preview :desktop_computer:
 
 ### Main Menu
 <img src="https://github.com/Lesiiaa/DungeonClimber/blob/main/ReadmeAssets/main_menu_gif.gif"  width="500" />
