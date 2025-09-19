@@ -38,17 +38,16 @@ The game was created by a team of 4 people.
 ## Screenshots :desktop_computer:
 
 ### Main Menu
+<img src="https://github.com/Lesiiaa/DungeonClimber/blob/main/ReadmeAssets/main_menu_gif.gif"  width="500" />
 
 ### First level rooms
-
-### Second level rooms
-
+<img src="https://github.com/Lesiiaa/DungeonClimber/blob/main/ReadmeAssets/first_level_ex_rooms_gif.gif"  width="500" />
 
 ### Door opening and bombs
+<img src="https://github.com/Lesiiaa/DungeonClimber/blob/main/ReadmeAssets/doors_and_bombs_gif.gif"  width="500" />
 
-### Mixtures
-
-### Inventory
+### Inventory and storyline notes
+<img src="https://github.com/Lesiiaa/DungeonClimber/blob/main/ReadmeAssets/inventory_gif.gif"  width="500" />
 
 ---
 
